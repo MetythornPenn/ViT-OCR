@@ -1,1 +1,1 @@
-# ai-project-boilerplate
+# Vision Transformer for OCR
